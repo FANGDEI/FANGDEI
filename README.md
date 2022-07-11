@@ -1,6 +1,6 @@
 # Hello I'm FANG!
 
-<img src="https://fangdei.oss-cn-chengdu.aliyuncs.com/img/image-20220711161652359.png" width="1000px">
+<img src="https://fangdei.oss-cn-chengdu.aliyuncs.com/img/image-20220711161847725.png" width="1000px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FANGDEI&layout=compact)](https://github.com/FANGDEI/github-readme-stats)
 
